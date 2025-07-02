@@ -29,11 +29,9 @@
     border: 1px solid black;
     width: 200px;
     height: 90px;
+    padding: 0px;
     text-align: center;
     font-size: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .temp-output-container {
