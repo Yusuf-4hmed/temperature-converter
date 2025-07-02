@@ -1,0 +1,42 @@
+.conversion-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 90px;
+}
+
+.unit {
+    font-size: 70px;
+    margin: 0px;
+}
+
+.temp-input-container {
+    display: flex;
+    align-items: end;
+}
+
+.temp-input {
+    border: 1px solid black;
+    width: 200px;
+    height: 90px;
+    padding: 0px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.temp-output {
+    border: 1px solid black;
+    width: 200px;
+    height: 90px;
+    text-align: center;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.temp-output-container {
+    display: flex;
+    align-items: end;
+}
